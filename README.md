@@ -9,7 +9,7 @@
 
 ## What do I know?
 - *Previously studied Frontend development, so:* **HTML**, **CSS**, **JS**, **TS**, **ReactJS**
-  (There no frontend projects in my profile cuz I don't like frontend develpoing, but I thought I must be mentioned here)
+(There no frontend projects in my profile cuz I don't like frontend develpoing, but I thought I must be mentioned here)*
 - Currently learn **Golang**
 - *Tools:* **VS Code**, **Git** (I didn't started learn Docker yet)
 - I know how to play minecraft
