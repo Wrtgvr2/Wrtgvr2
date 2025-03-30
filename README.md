@@ -10,7 +10,7 @@
 ## What do I know?
 - **Previously studied Frontend development, so:** ***HTML***, ***CSS***, ***JS***, ***TS***, ***ReactJS***
 *(There are no frontend projects in my profile cuz I don't like frontend developing, but I thought I must mention it here)*
-- **Currently learn *Golang***
+- **Currently learn: *Golang***
 - **Tools:** ***VS Code***, ***Git*** *(I haven’t started learning Docker yet)*
 - I know how to play minecraft
 
