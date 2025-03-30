@@ -8,12 +8,12 @@
 - Fun fact: GetFunfact()
 
 ## What do I know?
-- Previously studied Frontend development, so: **HTML**, **CSS**, **JS**, **TS**, **ReactJS**
+- **Previously studied Frontend development, so:** ***HTML***, ***CSS***, ***JS***, ***TS***, ***ReactJS***
 *(There no frontend projects in my profile cuz I don't like frontend develpoing, but I thought I must be mentioned here)*
-- Currently learn **Golang**
-- Tools: **VS Code**, **Git** *(I didn't started learn Docker yet)*
+- **Currently learn *Golang***
+- **Tools:** ***VS Code***, ***Git*** *(I didn't started learn Docker yet)*
 - I know how to play minecraft
 
 ![Wrtgvr's GitHub stats](https://github-readme-stats.vercel.app/api?username=wrtgvr2&show_icons=true&theme=dark)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jffwoqdfc7ajgacsecwexhua4m&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jffwoqdfc7ajgacsecwexhua4m&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
