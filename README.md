@@ -13,6 +13,6 @@
 - *Tools:* **VS Code**, **Git** (I didn't started learn Docker yet)
 - I know how to play minecraft
  
-https://github-readme-stats.vercel.app/api?username=wrtgvr2&show_icons=true&theme=transparent
+[](https://github-readme-stats.vercel.app/api?username=wrtgvr2&show_icons=true&theme=transparent)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jffwoqdfc7ajgacsecwexhua4m&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=12ff0a&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jffwoqdfc7ajgacsecwexhua4m&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jffwoqdfc7ajgacsecwexhua4m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
