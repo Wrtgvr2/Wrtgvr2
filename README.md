@@ -5,7 +5,7 @@
 - I’m currently learning Backend development
 - Ask me about... nah, better not.
 - How to reach me: Go outside, clap your hands 3 times, jump in place 1 time, turn around 10 times, go back home, write something in my GitHub, for example, in errors section of some project
-- Fun fact: [GetFunfact()](function-bun-production-2b70.up.railway.app)
+- Fun fact: [GetFunfact()](https://function-bun-production-2b70.up.railway.app/)
 
 ## What do I know?
 - **Previously studied Frontend development, so:** ***HTML***, ***CSS***, ***JS***, ***TS***, ***ReactJS***
