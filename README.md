@@ -1,7 +1,7 @@
 ## Hi there, Im Danil 👋
 
 ## Something about me
-- Currently working on [ToDo Rest API](https://github.com/Wrtgvr2/todoapi)
+- Currently working on [ToDo Rest API](https://github.com/Wrtgvr2/urlshrt)
 - I’m currently learning Backend development
 - Ask me about... nah, better not.
 - How to reach me: Go outside, clap your hands 3 times, jump in place 1 time, turn around 10 times, go back home, write something in my GitHub, for example, in errors section of some project
