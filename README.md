@@ -1,7 +1,7 @@
 ## Hi there, Im Danil 👋
 
 ## Something about me
-- Currently working on [URL shortener API](https://github.com/Wrtgvr2/urlshrt)
+- Currently working on [URL shortener API](https://github.com/Wrtgvr2/urlshrt) and [errsuit](https://github.com/Wrtgvr2/errsuit) (will be cool library)
 - I’m currently learning Backend development
 - Ask me about... nah, better not.
 - How to reach me: Go outside, clap your hands 3 times, jump in place 1 time, turn around 10 times, go back home, write something in my GitHub, for example, in errors section of some project
