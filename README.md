@@ -11,7 +11,7 @@
 ## What do I know?
 - **Previously studied Frontend development, so:** ***HTML***, ***CSS***, ***JS***, ***TS***, ***ReactJS***
 *(There are no frontend projects in my profile cuz I don't like frontend developing, but I thought I must mention it here)*
-- **Currently learn: *Golang***
+- **Currently learn: backend development with *Golang***
 - **Tools:** ***VS Code***, ***Git***, ***Docker***
 - I know how to play minecraft
 
