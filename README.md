@@ -14,5 +14,7 @@
 - I know how to play minecraft
 
 ![Wrtgvr's GitHub stats](https://github-readme-stats.vercel.app/api?username=wrtgvr2&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrtgvr2&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrtgvr2&theme=tokyonight)
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jffwoqdfc7ajgacsecwexhua4m&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
