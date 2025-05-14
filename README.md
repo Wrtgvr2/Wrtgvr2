@@ -12,7 +12,7 @@
 - **Previously studied Frontend development, so:** ***HTML***, ***CSS***, ***JS***, ***TS***, ***ReactJS***
 *(There are no frontend projects in my profile cuz I don't like frontend developing, but I thought I must mention it here)*
 - **Currently learn: *Golang***
-- **Tools:** ***VS Code***, ***Git*** *(I haven’t started learning Docker yet)*
+- **Tools:** ***VS Code***, ***Git***, ***Docker***
 - I know how to play minecraft
 
 ![Wrtgvr's GitHub stats](https://github-readme-stats.vercel.app/api?username=wrtgvr2&show_icons=true&theme=dark)
