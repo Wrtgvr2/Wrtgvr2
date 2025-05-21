@@ -1,8 +1,11 @@
 ## Hi there, Im Danil 👋
 
 ## Something about me
-- Currently working on:
-   - **[nothing](https://en.wikipedia.org/wiki/Nothing)**
+- Currently:
+   - working on:
+      - **[nothing](https://en.wikipedia.org/wiki/Nothing)**
+   - learning:
+      - gRPC, microservices
 - Sometimes work on:
    - **[errsuit](https://github.com/Wrtgvr2/errsuit) library**
 - I’m currently learning Backend development
