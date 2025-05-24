@@ -3,7 +3,8 @@
 ## Something about me
 - Currently:
    - working on:
-      - **[nothing](https://en.wikipedia.org/wiki/Nothing)**
+      - ~~**[nothing](https://en.wikipedia.org/wiki/Nothing)**~~
+      - **[gRPC Microblog](https://github.com/Wrtgvr2/grpc-microblog)**
    - learning:
       - gRPC, microservices
 - Sometimes work on:
